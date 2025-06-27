@@ -15,7 +15,7 @@
   <img title="HTML5" height="40" src="https://img.icons8.com/color/48/000000/html-5.png" />
   <img title="CSS3" height="40" src="https://img.icons8.com/color/48/000000/css3.png" />
   <img title="JavaScript" height="40" src="https://img.icons8.com/color/48/000000/javascript.png" />
-  <img title="MySQL" height="40" src="https://img.icons8.com/color/48/postgreesql.png" />
+  <img title="Mysql" height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
   <img title="REST APIs" height="40" src="https://img.icons8.com/nolan/64/api-settings.png" />
   <img title="Microservices" height="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png" />
   <img title="Docker" height="40" src="https://img.icons8.com/fluency/48/docker.png" />

@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="350" height="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 Actively learning Data Structures & Algorithms 
+- 🌱 Actively learning Python.
 - ☁️ Committed to continuous development — professionally driven and personally balanced.
 
 
@@ -21,6 +21,7 @@
   <img title="VS Code" height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
   <img title="Git" height="40" src="https://img.icons8.com/color/50/git.png" />
   <img title="Postman" height="40" src="https://img.icons8.com/dusk/64/postman-api.png" />
+  <img   title="React.js" height="40" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 </p>
 
 

@@ -17,27 +17,14 @@
   <img title="JavaScript" height="40" src="https://img.icons8.com/color/48/000000/javascript.png" />
   <img title="Mysql" height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
   <img title="REST APIs" height="40" src="https://img.icons8.com/nolan/64/api-settings.png" />
-  <img title="Microservices" height="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png" />
-  <img title="Docker" height="40" src="https://img.icons8.com/fluency/48/docker.png" />
   <img title="Linux" height="40" src="https://img.icons8.com/color/48/linux--v1.png" />
   <img title="VS Code" height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
-  <img title="IntelliJ IDEA" height="40" src="https://img.icons8.com/color/48/intellij-idea.png" />
   <img title="Git" height="40" src="https://img.icons8.com/color/50/git.png" />
-  <img title="Notion" height="40" src="https://img.icons8.com/color/48/notion--v1.png" />
   <img title="Postman" height="40" src="https://img.icons8.com/dusk/64/postman-api.png" />
 </p>
 
-***GitHub Progress***
-<div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerus1&layout=compact&langs_count=8&theme=github_dark&hide_border=true&text_color=ffffff&title_color=ffffff" alt="Top Languages" width="240" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yerus1&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" 
-       alt="GitHub Activity Graph" width="580" height="260" />
-</div>
 
 
-***Visitors***  
-
-![Visitor Count](https://profile-counter.glitch.me/yerus1/count.svg)
 
 
 
